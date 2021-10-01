@@ -1,41 +1,11 @@
 {
-  "users": [
-    {
-      "name": "John",
-      "id": 2,
-      "age": 40
-    },
-    {
-      "name": "Ovi",
-      "age": 90,
-      "id": 3
-    },
-    {
-      "name": "Ionut",
-      "age": 910,
-      "id": 4
-    }
-  ],
   "comments": [
     {
+      "id": 0,
       "user": "Ovi",
       "device_id": "12345",
       "adventure": "2",
       "comment": "Ce tare aventura!"
-    },
-    {
-      "user": "Ionut",
-      "device_id": "42342",
-      "adventure": "2",
-      "comment": "Ce tare caca e aventura!",
-      "id": "2"
-    },
-    {
-      "user": "Ionut",
-      "device_id": "42342",
-      "adventure": "2",
-      "comment": "Ce tare caca e aventura!",
-      "id": "OvCExtj"
     }
   ]
 }
