@@ -2,8 +2,8 @@
   "comments": [
     {
       "id": 0,
-      "user": "Ovi",
-      "device_id": "12345",
+      "user_name": "Ovi",
+      "phone": "12345",
       "adventure": "2",
       "comment": "Ce tare aventura!"
     }
